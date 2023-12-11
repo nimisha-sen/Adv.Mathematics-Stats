@@ -1,4 +1,4 @@
-#### Element 1 Part 1
+#### Element 1 Part 1. --
 
 ##### a. What is the task about?
 This mini project involves analyzing the relationship between mobile usage patterns and motor skills. The main objective is to understand how the duration and type of mobile usage might impact an individual's motor skills. The project is structured into sub-tasks including data preprocessing, exploratory data analysis, statistical analysis, and predictive modeling.
